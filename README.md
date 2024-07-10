@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedpr0" alt="mohamedpr0" /></a> </p>
  
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Python for backend, HTML&CSS for frontend**
 
