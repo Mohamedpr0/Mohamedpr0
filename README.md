@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **C# for backend, HTML&CSS for frontend**
+- 💬 Ask me about **Python for backend, HTML&CSS for frontend**
 
 - 📫 How to reach me **@mohamedpr0**
 
